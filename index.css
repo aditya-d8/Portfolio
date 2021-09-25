@@ -1,0 +1,144 @@
+.container-fluid {
+  padding-top: 0;
+  background-color: #F9F9F9;
+  position: fixed;
+  z-index: 2;
+  padding: 2% 2% 1%;
+}
+
+.navbar {
+  padding-top: 0 0 0;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 20px;
+  padding-top: 0;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+  padding-top: 0;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  color: black;
+}
+
+.down {
+  margin-right: 60%;
+  height: 800px;
+  background-color: #E3CDC1;
+  padding: 0;
+  padding-top: 0;
+}
+
+.myprofile{
+  width: 50%;
+  border-radius: 80px;
+  margin: 20px;
+  border: 4px solid  #464660; #0A1931;
+}
+
+.profilebackground {
+  margin-left: 20%;
+  margin-right: 50%;
+  background-color: #FFEEDB;
+  padding: 5px;
+  position: absolute;
+  box-shadow: 0 0 15px #888888;
+  text-align: center;
+  z-index: 1;
+  margin-top: 20%;
+}
+
+.intro {
+  padding 5%;
+  margin-left: 50%;
+  position: absolute;
+  padding: 20px;
+  margin-top: 20%;
+}
+
+hr {
+  width: 60px;
+  color: gray;
+  align-items: center;
+  margin-left: 40%;
+  margin-right: 50%;
+}
+
+.downlod-buttons {
+  margin: 5% 3% 5% 0;
+  border-radius: 90px;
+}
+
+h1 {
+  font-family: 'Montserrat, sans-serif';
+  font-size: 5rem;
+  line-height: 1.5;
+  font-weight: 500;
+  font-weight: bold;
+  padding-left: 5%;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: "Montserrat-bold";
+  font-weight: bold;
+}
+
+#footer {
+  padding: 3% 0% 1%;
+  padding-bottom: 0;
+  background-color: white;
+}
+
+.foot {
+  margin: 2%;
+}
+
+.contct {
+  text-decoration-color: red;
+}
+
+.footers {
+  padding: 5%;
+  text-align: right;
+  margin-top: 50%;
+}
+
+table, td {
+  text-align: center;
+  padding: 10px;
+    width: 100%;
+}
+
+th {
+  padding: 20px;
+}
+
+table {
+  border-spacing: 30px;
+}
+
+.deskbutton {
+  margin-right: 50px;
+  margin-left: 0;
+  border-radius: 90px;
+}
+a{
+  color: black;
+}
+#para-text{
+  color: #444444;
+}
